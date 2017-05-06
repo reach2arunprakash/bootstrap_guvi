@@ -1,4 +1,7 @@
-﻿Bootstrap Tutorial Source Files
+﻿create your profile in www.guvi.in and update your github repos to get better job opportunities  
+
+
+Bootstrap Tutorial Source Files
 =========
 
 This page will be used to host the source files for our Bootstrap tutorials on YouTube. Each folder represents a separate tutorial. 
